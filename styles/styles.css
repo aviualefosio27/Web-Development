@@ -1,0 +1,59 @@
+p{
+    font-weight: bold;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+/*this is a comment*/
+.emphasizedText{
+    font-style: italic;
+    color: #003da5;;
+}
+
+a:visited{
+    color:maroon;
+}
+
+body{
+    background-color:rgb(0, 16, 46);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+li {
+    font-weight: normal;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+div {
+    background-color:beige;
+}
+
+#viz1766013230346 {
+    margin: 0 auto;
+    display: block;
+}
+
+h4{
+    font-size: larger;
+}
+
+.header_size {
+    font-size: large;
+}
